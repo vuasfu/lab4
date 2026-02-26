@@ -1,8 +1,8 @@
+#include "Money.h"
+
 #include <iostream>
 #include <limits>
 #include <locale>
-
-#include "Money.h"
 
 unsigned int ReadUnsignedInt(const std::string& prompt)
 {
@@ -187,4 +187,5 @@ int main()
   }
 
   return 0;
+
 }
