@@ -147,3 +147,4 @@ Money Money::operator-(unsigned int amount) const
 
 # Тестирование
 
+
