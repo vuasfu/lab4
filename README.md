@@ -147,8 +147,10 @@ Money Money::operator-(unsigned int amount) const
 
 # Тестирование
 
-<img width="502" height="136" alt="image" src="https://github.com/user-attachments/assets/fab5a8f0-76d6-4401-b6fe-ad0fc0f0d1b3" />
-<img width="523" height="522" alt="image" src="https://github.com/user-attachments/assets/7e85dfae-2ea2-42e1-8366-aa1f3838fa47" />
+<img width="386" height="482" alt="image" src="https://github.com/user-attachments/assets/0d03fbbc-7d72-4f72-ac28-c931bd8cd736" />
+<img width="523" height="522" alt="image" src="https://github.com/user-attachments/assets/b1b33f4f-ed0e-4142-b48e-92e12e289693" />
+<img width="386" height="482" alt="image" src="https://github.com/user-attachments/assets/b5f21ed2-6bd6-46ab-be00-4e3f53978877" />
+<img width="461" height="512" alt="image" src="https://github.com/user-attachments/assets/7558c8f9-8be8-446a-bab2-fdfc2e3a682a" />
 
 
 
